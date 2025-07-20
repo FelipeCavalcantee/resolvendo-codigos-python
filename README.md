@@ -1,3 +1,3 @@
 # resolvendo-codigos-python
 
-### Projeto Conclusão do Módulo de Git e Codespaces.
+### Projeto Conclusão do Módulo de GitHub e Codespaces.
